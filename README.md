@@ -68,6 +68,9 @@ Aplikasi sederhana pemesanan tiket bioskop berbasis PHP Native. Sistem ini menca
 
 ## 📷 Tampilan Antarmuka
 
+desain tabel :
+![alt text](TP.png)
+
 Berikut adalah contoh screenshot dari antarmuka aplikasi:
 ![alt text](image.png)
 Searching :
